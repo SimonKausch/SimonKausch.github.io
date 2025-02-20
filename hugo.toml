@@ -1,0 +1,4 @@
+baseURL = 'https://simonkausch.ch/'
+languageCode = 'en-us'
+title = 'Simon Kausch'
+theme = 'hellofriend'

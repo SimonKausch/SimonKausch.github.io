@@ -2,3 +2,18 @@ baseURL = 'https://simonkausch.ch/'
 languageCode = 'en-us'
 title = 'Simon Kausch'
 theme = 'hellofriend'
+
+[params]
+  subtitle = "My personal website"
+  homeSubtitle = "My personal website"
+
+[[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/simon-kausch-196179174/"
+[[params.social]]
+  name = "github"
+  url = "https://github.com/SimonKausch"
+[[params.social]]
+  name = "flickr"
+  url = "https://www.flickr.com/photos/simonkausch/"
+
